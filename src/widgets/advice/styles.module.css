@@ -1,0 +1,14 @@
+@import "@fontsource/overpass/variable.css";
+
+.advice {
+  width: 100%;
+  padding: 20px;
+
+  text-align: center;
+
+  font-size: 2.5rem;
+  font-family: 'OverpassVariable', sans-serif;
+  font-weight: 700;
+
+  cursor: pointer;
+}

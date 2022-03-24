@@ -1,0 +1,29 @@
+{
+  "name": "fsd-scheme",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fontsource/overpass": "^4.5.4",
+    "clsx": "^1.1.1",
+    "lodash-es": "^4.17.21",
+    "modern-css-reset": "^1.4.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "three": "^0.138.3",
+    "tiny-invariant": "^1.2.0"
+  },
+  "devDependencies": {
+    "@types/lodash-es": "^4.17.6",
+    "@types/react": "^17.0.33",
+    "@types/react-dom": "^17.0.10",
+    "@types/three": "0.138.0",
+    "@vitejs/plugin-react": "^1.0.7",
+    "typescript": "^4.5.4",
+    "vite": "^2.8.0"
+  }
+}
